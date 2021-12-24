@@ -65,7 +65,7 @@ body{
 }
 
 .price{
-    background: url("/images/icon-ethereum.svg") left center no-repeat;
+    background: url("../images/icon-ethereum.svg") left center no-repeat;
     padding-left: 20px;
     float: left;
     font-size: .8em;
@@ -74,7 +74,7 @@ body{
 }
 
 .time-left{
-    background: url("/images/icon-clock.svg") left center no-repeat;
+    background: url("../images/icon-clock.svg") left center no-repeat;
     padding-left: 20px;
     float: right;
     font-size: .8em;
